@@ -6,4 +6,4 @@ A custom script that adds hotkey to toggle touch input on touch input enabled la
 4.make sure all three files including shortcut you created are in same folder{preffered in desktop}
 5.assign a hotkey to shortcuts under properties > shortcut keys
 6.press the hotkey and grant admin privlages
-<h1>ENJOY ;)</h1>
+<b>ENJOY ;)</b>
